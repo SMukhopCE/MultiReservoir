@@ -1,0 +1,16 @@
+#!/bin/csh
+
+#BSUB -W 2:00
+#BSUB -n 16
+#BSUB -J multres
+#BSUB -o standard_output
+#BSUB -e standard_error
+
+cp * /gpfs_common/share01/ce791_classrm/smukhop2/JUNE_2007/
+cd /gpfs_common/share01/ce791_classrm/smukhop2/JUNE_2007/
+
+
+./multireservoir
+
+
+

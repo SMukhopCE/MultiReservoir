@@ -1,0 +1,14 @@
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+multireservoir     00000000004CFCF1  Unknown               Unknown  Unknown
+multireservoir     00000000004CDE2B  Unknown               Unknown  Unknown
+multireservoir     00000000004855B4  Unknown               Unknown  Unknown
+multireservoir     00000000004853C6  Unknown               Unknown  Unknown
+multireservoir     0000000000448D89  Unknown               Unknown  Unknown
+multireservoir     000000000044C356  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B19ACB4B100  Unknown               Unknown  Unknown
+multireservoir     00000000004307D0  Unknown               Unknown  Unknown
+multireservoir     000000000043E67B  Unknown               Unknown  Unknown
+multireservoir     0000000000402E1E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B19AD07BB15  __libc_start_main     Unknown  Unknown
+multireservoir     0000000000402D29  Unknown               Unknown  Unknown
